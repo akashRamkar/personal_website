@@ -1,2 +1,2 @@
-# WebDevBootCamp
-This is the practice repository for my web development learning. This repository includes all the projects as well as my personal notes in journey of web development. 
+# Personal website
+This is my personal portfolio build using 100% html.

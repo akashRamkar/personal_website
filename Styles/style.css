@@ -6,7 +6,9 @@ body {
 }
 
 img {
+    margin-top: 0%;
     margin-right: 10px;
+    clip-path: circle(); /* clip the image in circular shape*/
 
 }
 h1{

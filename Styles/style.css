@@ -1,6 +1,6 @@
 body {
     background-color: #d8e2dc;
-    margin:0;
+    margin: 0;
     padding: 40px none;
     padding-left: 20px;
 
@@ -8,16 +8,20 @@ body {
 
 img {
     margin-top: 0%;
-    margin-right: 10px;
-    clip-path: circle(); /* clip the image in circular shape*/
+    margin-right: 20px;
+    clip-path: circle();
+    /* clip the image in circular shape*/
 
 }
-h1{
-color:#0a9396;
+
+h1 {
+    color: #0a9396;
 }
-h3{
-    color:#0a9396;
+
+h3 {
+    color: #0a9396;
 }
+
 hr {
     border-style: none;
     width: 5%;
@@ -27,7 +31,31 @@ hr {
     border-color: #f27370;
     border-top-style: dotted;
     margin-top: 5%;
+    margin-bottom: 10%;
 
 
 }
 
+.center-heading-block {
+    margin: 0 auto;
+    width: 50%;
+    line-height: 2;
+}
+
+.center-title {
+
+
+
+    margin: 0 0;
+    text-align: center;
+
+}
+
+.text-wrap {
+    word-wrap: break-word;
+}
+
+.center-profile-table {
+    width: 0 700px;
+    display: inline;
+}

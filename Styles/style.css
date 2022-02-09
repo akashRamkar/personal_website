@@ -50,6 +50,11 @@ hr {
     margin: 0 0;
     text-align: center;
 
+
+}
+
+.center-table {
+    margin: 0 auto;
 }
 
 .text-wrap {

@@ -38,6 +38,14 @@ hr {
 
 }
 
+.intro-table {
+    width: 70%;
+}
+
+.width-80 {
+    width: 91%;
+}
+
 .center-heading-block {
     margin: 0 auto;
     width: 50%;

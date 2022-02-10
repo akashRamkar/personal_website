@@ -2,13 +2,14 @@ body {
     background-color: #d8e2dc;
     margin: 0;
     padding: 40px none;
-    padding-left: 20px;
+
     font-family: Helvetica, sans-serif;
 
 }
 
 img {
     margin-top: 0%;
+    margin-left: 20px;
     margin-right: 20px;
     clip-path: circle();
     /* clip the image in circular shape*/
@@ -64,4 +65,17 @@ hr {
 .center-profile-table {
     width: 0 700px;
     display: inline;
+}
+
+.footer {
+    position: static;
+    padding: 20px 0;
+    width: 100%;
+    height: 120px;
+    background-color: aliceblue;
+}
+
+.footer-text-color {
+    color: #f27370;
+    font-size: 25px;
 }

@@ -2,6 +2,7 @@ body {
     background-color: #d8e2dc;
     margin: 0;
     padding: 40px none;
+    color: #212121;
 
     font-family: Helvetica, sans-serif;
 
@@ -36,6 +37,15 @@ hr {
     margin-bottom: 10%;
 
 
+}
+
+a {
+    padding-top: 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #f27370;
 }
 
 .intro-table {
